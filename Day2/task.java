@@ -20,7 +20,7 @@ long mobile = login.nextLong();
 login.nextLine();
 
 System.out.println("Enter your password:");
-String password = login.nextLine();
+String password = login.next();
 
 System.out.println("Your First Name = "+ first_name);
 System.out.println("Your last Name = "+ last_name);
