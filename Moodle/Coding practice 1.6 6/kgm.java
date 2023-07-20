@@ -2,11 +2,12 @@ class kgm{
 
 public static void main(String args[]){
 
-int a = 10;
+int X = 9;
+int Y = 8;
 
-a *= 2;
-
-System.out.println(a);
+System.out.println(" X & y = " + (X & Y));
+System.out.println(" X | y = " + (X | Y));
+System.out.println(" X ^ y = " + (X ^ Y));
 
 }
 }
