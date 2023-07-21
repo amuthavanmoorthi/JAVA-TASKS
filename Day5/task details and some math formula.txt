@@ -1,0 +1,17 @@
+Task 1: Generate a four random numbers.
+
+hypo = adjacent side / opposite side
+
+perimeter 
+piar
+radius
+area
+
+IEEremainder:
+
+a - 6
+b - 2 
+
+a/b = value;
+a - (b*value)
+
